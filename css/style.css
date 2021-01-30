@@ -1,0 +1,360 @@
+html {
+    background-color: #F2F2F2;
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+
+main {
+    width: 1150px;
+    background-color: #F2F2F2;
+    margin: 0 auto;
+}
+
+img{
+    display:block;
+}
+
+.logo {
+    width: 170px;
+    height: 92px;
+    float: right;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.start {
+    width: 650px;
+    height: 601px;
+    float: left;
+}
+
+.magazine-img {
+    width: 650px;
+    height: 669px;
+}
+
+.magazine-img:hover {
+    filter: invert(90%) !important;
+}
+
+.navigatie {
+    width: 650px;
+    height: 64px;
+    background-color: #1D1D1D;
+}
+
+.pijl-links {
+    width: 38px;
+    height: 39px;
+    padding-left: 534px;
+    padding-top: 12px;
+    float: left;
+}
+
+.pijl-rechts {
+    width: 38px;
+    height: 39px;
+    padding-top: 12px;
+    padding-left: 16px;
+    float: left;
+}
+
+.start2 {
+    width: 500px;
+    height: 733px;
+    background-color: #F2F2F2;
+    float: right;
+}
+
+.regel1 {
+    color: #474747;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.6em;
+    text-decoration: none;
+    text-align: right;
+    margin-top: 216px;
+    margin-right: 30px;
+}
+
+.regel2 {
+    color: #474747;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.6em;
+    text-decoration: none;
+    text-align: right;
+    margin-top: 3px;
+    margin-right: 30px;
+}
+
+.regel3 {
+    color: #474747;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.6em;
+    text-decoration: none;
+    text-align: right;
+    margin-top: 3px;
+    margin-right: 30px;
+    float: right;
+}
+
+.regel4 {
+    color: #474747;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.5em;
+    text-decoration: none;
+    text-align: left;
+    margin-top: 3px;
+    margin-left: 30px;
+    float: left;
+}
+
+.lijnstart {
+    width: 470px;
+    height: 2px;
+    border-width:0;
+    margin-left: 0;
+    color: #474747;
+    background-color: #474747;
+    margin-top: 18px;
+}
+
+.regel5 {
+    color: #1D1D1D;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    width: 225px;
+    letter-spacing: 0.5px;
+    line-height: 26px;
+    font-weight: 700;
+    font-size: 2em;
+    text-decoration: none;
+    text-align: right;
+    margin-top: 6px;
+    margin-right: 30px;
+    float: right;
+}
+
+.regel6 {
+    color: #1D1D1D;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    width: 225px;
+    letter-spacing: 0.5px;
+    line-height: 26px;
+    font-weight: 700;
+    font-size: 2em;
+    text-decoration: none;
+    text-align: right;
+    margin-top: 16px;
+    margin-right: 30px;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.video {
+    width: 1150px;
+    height: 528px;
+    background-color: #DDDDDD;
+    margin-top: 80px;
+    position: relative;
+}
+
+.play {
+    width: 74px;
+    height: 74px;
+    top: 227px;
+    left: 538px;
+    position: absolute;
+}
+
+.informatie {
+    width: 1150px;
+    height: 384px;
+    background-color: #1D1D1D;
+    margin-top: 80px;
+}
+
+.ul1 {
+    text-align: left;
+    float: left;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.li1 {
+    color: #F2F2F2;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+    text-decoration: none;
+    margin-top: 41px;
+}
+
+.li1:first-child {
+    margin-top:0;
+}
+
+.vl {
+    border-left: 1px solid #474747;
+    height: 264px;
+    float: left;
+    margin-left: 31px;
+    margin-top: 60px;
+}
+
+.ul2 {
+    text-align: left;
+    float: left;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.li2 {
+    color: #8F8F8F;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2em;
+    text-decoration: none;
+    margin-top: 41px;
+}
+
+.li2:first-child {
+    margin-top:0;
+}
+
+.closeup {
+    width: 698px;
+    height: 384px;
+    float: right;
+}
+
+hr {
+    height:1px;
+    border-width:0;
+    color:#474747;
+    background-color:#474747;
+}
+
+/* .artikels {
+    width: 1150px;
+    height: 227px;
+    margin-top: 80px;
+    color: black;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2em;
+    text-decoration: none;
+} */
+
+/* .column {
+    width: 1150px;
+    height: 227px;
+    float: left;
+    background-color: aquamarine;
+}
+
+.interview {
+    width: 575px;
+    height: 227px;
+    float: right;
+    background-color: blue;
+} */
+
+.footer {
+    width: 1150px;
+    height: 290px;
+    margin-top: 200px;
+    position: relative;
+}
+
+.footer-img {
+    width: 1150px;
+    height: 290px;
+    position: absolute;
+}
+
+.mailcontact {
+    color: #F2F2F2;
+    display: block;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+    text-decoration: none;
+    position: absolute;
+    top: 133px;
+    left: 204px;
+    float: left;
+}
+
+.mailcontact::after{
+    content: "";
+    background: #F2F2F2;
+      mix-blend-mode: exclusion;
+    width: calc(100% + 20px);
+    height: 0;
+    position: absolute;
+    bottom: -4px;
+    left: -10px;
+      transition: all .3s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.mailcontact:hover::after{
+	height: calc(100% + 8px)
+}
+
+.logo-wit {
+    width: 185px;
+    height: 100px;
+    position: absolute;
+    top: 95px;
+    left: 482px;
+    transition: all .2s ease-in-out;
+}
+
+.logo-wit:hover {
+    transform: scale(1.1);
+}
+
+.mailbestellen {
+    color: #F2F2F2;
+    font-family: 'Chivo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+    text-decoration: none;
+    position: absolute;
+    top: 133px;
+    right: 196px;
+    float: right;
+}
+
+.mailbestellen::after{
+    content: "";
+    background: #F2F2F2;
+      mix-blend-mode: exclusion;
+    width: calc(100% + 20px);
+    height: 0;
+    position: absolute;
+    bottom: -4px;
+    left: -10px;
+      transition: all .3s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.mailbestellen:hover::after{
+	height: calc(100% + 8px)
+}
