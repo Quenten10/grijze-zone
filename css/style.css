@@ -162,21 +162,29 @@ img{
     clear: both;
 }
 
-.video {
+.vimeo {
+    width: 1150px;
+    height: 528px;
+    background-color: #f2f2f2;
+    margin-top: 80px;
+    position: relative; 
+}
+
+/* .video {
     width: 1150px;
     height: 528px;
     background-color: #DDDDDD;
     margin-top: 80px;
     position: relative;
-}
+} */
 
-.play {
+/* .play {
     width: 74px;
     height: 74px;
     top: 227px;
     left: 538px;
     position: absolute;
-}
+} */
 
 .informatie {
     width: 1150px;
