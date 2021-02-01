@@ -163,11 +163,7 @@ img{
 }
 
 .vimeo {
-    width: 1150px;
-    height: 528px;
-    background-color: #f2f2f2;
     margin-top: 80px;
-    position: relative; 
 }
 
 .video {
@@ -285,7 +281,7 @@ hr {
 .footer {
     width: 1150px;
     height: 290px;
-    margin-top: 200px;
+    margin-top: 300px;
     position: relative;
 }
 
